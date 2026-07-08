@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "A production-ready Project Management Web Application featuring real-time boards, timelines, interactive calendars, advanced productivity charts, full team management, secure JWT authentication, and built-in Gemini AI assistants.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
